@@ -1,0 +1,263 @@
+.add-to-cart{
+    background-color: rgb(255, 216, 23);
+    border-radius: 15px;
+    border-color: aliceblue;
+    height: 32px;
+    width: 112px;
+    cursor: pointer;
+    font-size: larger;
+    transition: opacity 0.70s
+}
+.add-to-cart:hover{
+
+    opacity: 0.80;
+}
+.add-to-cart:active{
+    opacity:0,7
+}
+
+.buy-now{
+    background-color: rgb(255, 164, 28);
+    border-radius: 15px;
+    border-color: aliceblue;
+    height: 32px;
+    width: 112px;
+    cursor: pointer;
+    font-size: larger;
+    margin-left: 5px;
+
+}
+apply-on-company-button{
+    color:antiquewhite;
+    background-color: rgb(10, 102, 194);
+    border-radius: 15px;
+    border-color: aliceblue;
+    height: 32px;
+    weidth: 112px;
+    cursor: pointer;
+    font-size: larger;
+    margin-left: 5px;
+
+}
+.save{
+    background-color: none);
+    border-radius: 15px;
+    border-color: aliceblue;
+    height: 32px;
+    weidth: 112px;
+    cursor: pointer;
+    font-size: larger;
+    margin-left: 5px;
+
+}
+.uber-button{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width:110px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.uber-button:hover {
+    opacity:0.8;
+ 
+}
+.git-hub{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 40px;
+    width:110px;
+    cursor: pointer;
+    transition: opacity 0.15s, box-shadow 0.15s;
+
+
+}
+
+.git-hub:hover{
+    opacity:0.7;
+box-shadow: 5px 5px 10px rgba(0,0,0,1);
+}
+
+.boot-strap{
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    width:110px;
+    cursor: pointer;
+    transition: opacity 0.15s, box-shadow 0.15s;
+
+}
+.boot-strap:hover {
+    opacity:0.7;
+    box-shadow: 5px 5px 10px rgba(0,0,0,1);
+    
+}
+
+.down-load{
+    background-color: white;
+    color: black;
+    border-color: aliceblue;
+    font-weight: bold;
+    height: 40px;
+    width:110px;
+    cursor: pointer;
+    transition: opacity 0.15s, box-shadow 0.15s
+
+}
+
+.down-load:hover{
+    opacity:0.7;
+    background-color: gray;
+    color:white;
+}
+.tahoma-font{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.biggest-example{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.sales-example{
+    font-style:italic;
+    font-size: 20px;
+    color:red;
+    margin-top: 0px;
+}
+.html-css{
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.pro-example{
+    font-family: verdana;
+    font-size: 15px;
+    margin-top: 0px;
+    color:grey;
+}
+.course-example{
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.get-started{
+    background-color: green;
+    font-family: verdana;
+    font-size: 15px;
+    color:white;
+    border-radius:5px;
+    border-color: black;
+    cursor: pointer;
+
+}
+.shopping-io{
+    font-family: arial;
+    font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.what-example{
+    font-family: arial;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.learn-more{
+    color:blue;
+    font-size: 15px;
+    text-align: center;
+}
+.new{
+    font-family: arial;
+    font-size: 10px;
+    color:red;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.macbook{
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.supercharged{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.form{
+    font-size: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+.Buy{
+    background-color: blue;
+    color:white;
+    border-radius: 12px;
+    text-align: center;
+
+}
+.buy{
+    text-align: center;
+}
+.dollar{
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+}
+.usd{
+    font-size: 15px;
+    font-family: arial;
+    color:grey;
+    text-align: center;
+}
+.shares{
+    font-size: 14px;
+    font-family: arial;
+    color:green;
+    text-align: center;
+}
+.hours{
+    font-size: 14px;
+    color:grey;
+    text-align: center;
+
+}
+.red{
+    font-size: 14px;
+    color:red;
+    text-align: center;
+
+}
+.thumbnail{
+    width:180px;
+    height: 180px;
+    border-radius: 100px;
+}
+.search-bar{
+    width:300px;
+    border:none;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 30px;
+    box-shadow: rgba(0,0,0,1);
+}

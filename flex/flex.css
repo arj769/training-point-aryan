@@ -1,0 +1,94 @@
+.parent {
+    display: flex;
+    background-color: black;
+    height: 60px;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.parent-colomn {
+    display: flex;
+    background-color: burlywood;
+    align-items: center;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    height: 500px;
+
+}
+
+
+.child {
+    width: 100px;
+
+}
+
+.red {
+    background-color: red;
+    height: 50px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 50px;
+}
+
+.brown {
+    background-color: brown;
+    height: 50px;
+}
+
+.pink {
+    background-color: pink;
+    height: 50px;
+}
+
+.aryan {
+    justify-content: center;
+    text-align: center;
+    width: ;
+    margin: 0 auto;
+    margin-top: 75px;
+
+}
+
+.aryan-photo {
+    height: 400px;
+    width: 450px;
+    position: relative;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin: auto;
+    opacity: 1;
+    transition: opacity .5s ease;
+    backface-visibility: hidden;
+}
+
+
+.aryan-description {
+    width: 100%;
+    height: 100%;
+    /* top: 450px;
+    left: 100px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    position: absolute;
+    opacity: 1;
+    transition: 0.6s;
+
+}
+
+.aryan-description:hover {
+    opacity: 0.9;
+}
+
+.aryan-description p {
+    color: black;
+    font-weight: bold;
+}

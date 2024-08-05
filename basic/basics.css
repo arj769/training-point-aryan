@@ -1,0 +1,41 @@
+.container{
+   justify-content: center;
+   display: flex;
+   align-items: center;
+
+
+}
+            .image{
+                border-radius: 400px;
+                width: 120px;
+                align-self: stretch;
+               
+            }
+            body{
+                background-image:url(https://th.bing.com/th/id/R.1a0562bc55f802c34c2e7f2aaf7c3d92?rik=6wVnEiPaXTiqfQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fPictures-Background-HD.jpg&ehk=qic5rElmJwhPPIcIDpwcPAJKRPc9CiPc3wD4deCvn3o%3d&risl=&pid=ImgRaw&r=0)  ;
+                background-attachment:scroll;
+                background-size:cover;
+                background-repeat:no-repeat;
+                background-position: right top;
+                color: white;
+                opacity:0.6;
+
+            }
+            h1{
+                color:blue;
+            }
+            a{
+                text-decoration: none;
+            }
+            .box{
+                background-color: orange;
+                width:350px;
+                height:250px;
+                font-size: 20px;
+                padding: 50px;
+                margin:40px;
+                
+                
+            }
+            
+         
